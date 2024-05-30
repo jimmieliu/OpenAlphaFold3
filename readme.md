@@ -18,7 +18,7 @@ Abramson, J., Adler, J., Dunger, J. et al. Accurate structure prediction of biom
 PR is welcomed!
 
 ### Contact me
-If you want to make further discussion, contact me by **+86 18401228190**. I can found on Wechat by this number.
+If you want to make further discussion, contact me by **siliconsoulcn@gmail.com**. I can be found on Wechat by id: **siliconsoul**.
 
 ## About me
 FYI, I am very enthusiastic about the AI + Pharmaceutical Area, and experienced with protein sequence modeling and 3d structure reconstruction. I am currently available for new job oppertunity.
