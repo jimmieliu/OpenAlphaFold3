@@ -15,11 +15,13 @@ Hi all, I am open sourcing this repo in gratitude for Deepmind, AlQuraishi Labor
 Abramson, J., Adler, J., Dunger, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature (2024). [https://doi.org/10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w)
 
 ## How to contribute
-PR is welcomed!
+Contribution is welcomed! New pull request.
 
 ### Contact me
 If you want to make further discussion, contact me by:
+
 EMAIL: **siliconsoulcn@gmail.com**
+
 Wechat: **siliconsoul**
 
 ## About me
