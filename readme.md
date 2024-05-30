@@ -18,10 +18,14 @@ Abramson, J., Adler, J., Dunger, J. et al. Accurate structure prediction of biom
 PR is welcomed!
 
 ### Contact me
-If you want to make further discussion, contact me by **siliconsoulcn@gmail.com**. I can be found on Wechat by id: **siliconsoul**.
+If you want to make further discussion, contact me by:
+EMAIL: **siliconsoulcn@gmail.com**
+Wechat: **siliconsoul**
 
 ## About me
-FYI, I am very enthusiastic about the AI + Pharmaceutical Area, and experienced with protein sequence modeling and 3d structure reconstruction. I am currently available for new job oppertunity.
+I am very enthusiastic about the AI + Pharmaceutical Area, and experienced with protein sequence modeling and 3d structure reconstruction. 
+
+**Great news. I am currently available for new job oppertunity.**
 
 As a senior AI architecture SW enigeer, I have been working in ML/DL for years, experienced with DL neural networks, distributed GPU training, GPU/CPU inferencing, etc. I have publications at top AI conferences and journals. Besides researching works, I have contribution made to open sources projects like [huggingface transformers 127k stars up to now](https://github.com/huggingface/transformers), etc.
 
